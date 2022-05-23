@@ -8,8 +8,7 @@ Viva translate UI is the main frontend component layer for viva translate challe
 ## Development
 To start development, Please do the following. Note: this service depends on the [Viva Translate Api](https://github.com/MathiasMS/viva-translate-be). So make sure you have run it to enjoy the app!
 ### Configuration
-Add env variables to run the project adding the following or use the defaults value.
-``` touch .env ```
+Add env variables to run the project adding the following or use the defaults value
 #### .env
 ```
 //Application variables
